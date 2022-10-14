@@ -12,9 +12,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/google/go-licenses/internal/third_party/pkgsite/derrors"
-	"github.com/google/go-licenses/internal/third_party/pkgsite/version"
 	"golang.org/x/mod/semver"
+	"github.com/tq-systems/em-go-licenses/internal/third_party/pkgsite/derrors"
+	"github.com/tq-systems/em-go-licenses/internal/third_party/pkgsite/version"
 )
 
 const (
