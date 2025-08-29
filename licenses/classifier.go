@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/google/licenseclassifier"
+	"github.com/tq-systems/em-lib-licenseclassifier"
 )
 
 // Type identifies a class of software license.

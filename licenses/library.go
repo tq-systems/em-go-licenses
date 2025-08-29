@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/go-licenses/internal/third_party/pkgsite/source"
 	"golang.org/x/tools/go/packages"
 	"k8s.io/klog/v2"
+	"github.com/tq-systems/em-go-licenses/internal/third_party/pkgsite/source"
 )
 
 // Library is a collection of packages covered by the same license file.
