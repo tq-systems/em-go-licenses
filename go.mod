@@ -13,9 +13,8 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/spf13/cobra v1.6.0
-	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/tq-systems/em-lib-licenseclassifier v1.0.1-tq
-	go.opencensus.io v0.23.0
+	go.opencensus.io v0.24.0
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
