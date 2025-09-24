@@ -12,7 +12,7 @@ require (
 	github.com/otiai10/copy v1.6.0
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
-	github.com/spf13/cobra v1.6.0
+	github.com/spf13/cobra v1.10.1
 	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/tq-systems/em-lib-licenseclassifier v1.0.1-tq
 	go.opencensus.io v0.23.0
